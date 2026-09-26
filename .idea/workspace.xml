@@ -6,14 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1d66eeee-660f-4953-aac9-c14945bd0760" name="Changes" comment="this is my first project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arguments.py" beforeDir="false" afterPath="$PROJECT_DIR$/arguments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calsses.py" beforeDir="false" afterPath="$PROJECT_DIR$/calsses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cd_exercice_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/cd_exercice_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cd_exercise_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/cd_exercise_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cd_exercise_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/cd_exercise_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local_global.py" beforeDir="false" afterPath="$PROJECT_DIR$/local_global.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,35 +101,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.arguments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calsses.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cd_exercice_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cd_exercise_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cd_exercise_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cd_exercise_4_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.functions_return.executor&quot;: &quot;Run&quot;,
-    &quot;Python.local_global.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.arguments.executor": "Run",
+    "Python.calsses.executor": "Run",
+    "Python.cd_exercice_3.executor": "Run",
+    "Python.cd_exercise_1.executor": "Run",
+    "Python.cd_exercise_2.executor": "Run",
+    "Python.cd_exercise_4_calculator.executor": "Run",
+    "Python.dictionary.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.functions_return.executor": "Run",
+    "Python.inheritance.executor": "Run",
+    "Python.local_global.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="cd_exercice_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
