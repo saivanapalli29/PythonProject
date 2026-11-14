@@ -17,6 +17,12 @@ laptop = Laptop()
 mobile = Mobile()
 tablet = Tablet()
 
+
+
+show_device(laptop)
+show_device(mobile)
+show_device(tablet)
+
 show_device(laptop)
 show_device(mobile)
 show_device(tablet)
